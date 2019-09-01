@@ -1,10 +1,10 @@
-# NextJS TailwindCSS Typescript Template with PurgeCSS
+# Demo Masonry Layout with CSS, TailwindCSS, and NextJS
 
 ## Getting Started
 
 ```
-git clone https://github.com/muhajirdev/nextjs-tailwind-template
-cd nextjs-tailwind-template
+git clone https://github.com/muhajirdev/masonry-tailwind-nextjs-demo
+cd masonry-tailwind-nextjs-demo
 
 npm install
 npm run dev
