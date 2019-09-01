@@ -1,0 +1,36 @@
+{
+  "name": "nextjs-tailwind-template",
+  "version": "1.0.0",
+  "description": "NextJS + TailwindCSS Template with PurgeCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
+  },
+  "keywords": [],
+  "author": {
+    "email": "muhammad@muhajir.dev",
+    "name": "Muhammad Muhajir",
+    "url": "https://muhajir.dev"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2",
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.4",
+    "@zeit/next-css": "^1.0.1",
+    "next-purgecss": "^3.1.1",
+    "tailwindcss": "^1.0.5",
+    "typescript": "^3.5.3"
+  }
+}
