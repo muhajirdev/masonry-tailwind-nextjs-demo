@@ -5,7 +5,6 @@ const Layout: React.FC = ({ children }) => (
     <style jsx global>{`
       body {
         margin: 0;
-        background: black;
       }
     `}</style>
   </div>
